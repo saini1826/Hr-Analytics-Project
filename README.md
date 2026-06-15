@@ -3,32 +3,32 @@
 This project focuses on analyzing employee data to identify key workforce trends, employee attrition patterns, job satisfaction levels, salary distribution, and overall HR performance. The project was built using Excel, MySQL, and Power BI to simulate a real-world HR Analytics solution used by organizations for workforce management and decision-making.
 ### Business Problem
 Employee attrition is one of the major challenges faced by organizations. The objective of this project is to analyze employee data and answer critical business questions such as:
-. What is the overall attrition rate?
-. Which departments have the highest attrition?
-. Which age groups are most affected by attrition?
-. How does salary impact employee turnover?
-. What are the job satisfaction levels across different job roles?
-. Which employee groups require retention strategies?
+1. What is the overall attrition rate?
+2. Which departments have the highest attrition?
+3. Which age groups are most affected by attrition?
+4. How does salary impact employee turnover?
+5. What are the job satisfaction levels across different job roles?
+6. Which employee groups require retention strategies?
 ### Tools Used
-. Excel – Data Collection & Initial Data Cleaning
-. MySQL – Data Cleaning, Transformation & Business Query Analysis
-. Power BI – Dashboard Development & Data Visualization
+1. Excel – Data Collection & Initial Data Cleaning
+2. MySQL – Data Cleaning, Transformation & Business Query Analysis
+3. Power BI – Dashboard Development & Data Visualization
 ### Dataset Information
 The dataset contains employee-related information including:
-. Employee ID
-. Age
-. Gender
-. Department
-. Job Role
-. Education Field
-. Monthly Income
-. Job Satisfaction
-. Work-Life Balance
-. Performance Rating
-. Attrition Status
-. Years at Company
-. Total Working Years
-. Overtime Status
+1. Employee ID
+2. Age
+3. Gender
+4. Department
+5. Job Role
+6. Education Field
+7. Monthly Income
+8. Job Satisfaction
+9. Work-Life Balance
+10. Performance Rating
+11. Attrition Status
+12. Years at Company
+13. Total Working Years
+14. Overtime Status
 ### SQL Analysis Performed
 1. Currently Available Employees
 2. Currently Active
@@ -45,20 +45,20 @@ The dataset contains employee-related information including:
 13. Highest Paid Employees
 14. Job satisfaction
 ### Power BI Dashboard KPIs
-. The dashboard includes:
-. Total Employees
-. Active Employees
-. Attrition 
-. Attrition Rate %
-. Average Age
-. Average Experience
+1. The dashboard includes:
+2. Total Employees
+3. Active Employees
+4. Attrition 
+5. Attrition Rate %
+6. Average Age
+7. Average Experience
 ### Dashboard Visualizations
-. Attrition by Gender
-. Department-wise Attrition
-. Employees by Age Group
-. Education Field-wise Attrition
-. Job Satisfaction Rating Matrix
-. Attrition by Salary Slab
+1. Attrition by Gender
+2. Department-wise Attrition
+3. Employees by Age Group
+4. Education Field-wise Attrition
+5. Job Satisfaction Rating Matrix
+6. Attrition by Salary Slab
 ### Key Insights
 1. Employees with lower salary levels showed higher attrition rates.
 2. Certain departments experienced significantly higher employee turnover.
@@ -75,18 +75,18 @@ The dataset contains employee-related information including:
 7. Built an interactive HR Analytics Dashboard.
 8. Generated insights and recommendations.
 ### Business Recommendations
-. Improve employee engagement programs.
-. Review compensation strategies for lower salary bands.
-. Monitor overtime workload to reduce burnout.
-. Increase focus on employee satisfaction and career growth opportunities.
-. Implement targeted retention strategies in high-attrition departments.
+1. Improve employee engagement programs.
+2. Review compensation strategies for lower salary bands.
+3. Monitor overtime workload to reduce burnout.
+4. Increase focus on employee satisfaction and career growth opportunities.
+5. Implement targeted retention strategies in high-attrition departments.
 ### Project Outcome
-. This project demonstrates practical skills in:
-. Data Cleaning
-. SQL Query Writing
-. Data Analysis
-. Business Problem Solving
-. Dashboard Development
-. Data Visualization
-. HR Analytics
+1. This project demonstrates practical skills in:
+2. Data Cleaning
+3. SQL Query Writing
+4. Data Analysis
+5. Business Problem Solving
+6. Dashboard Development
+7. Data Visualization
+8. HR Analytics
 The project simulates a real-world HR Analytics solution and showcases end-to-end Data Analytics capabilities using Excel, MySQL, and Power BI.
